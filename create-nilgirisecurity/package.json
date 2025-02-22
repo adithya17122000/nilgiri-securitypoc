@@ -1,0 +1,19 @@
+{
+    "name": "create-nilgirisecurtiy",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adithya17122000/pocnilgiri.git"
+    },
+    "scripts": {
+        "test": "echo 'Run tests here'",
+        "build": "echo 'Build your package here'"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    },
+    "dependencies": {
+        "create-nilgirisecurity": "^1.0.4"
+    }
+}
